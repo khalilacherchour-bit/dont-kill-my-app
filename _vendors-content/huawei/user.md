@@ -1,8 +1,8 @@
----
+---e5k
 manufacturer:
     - huawei
-
----
+7tr
+- ugooi--
 
 
 ### Smart Tune-up
@@ -21,7 +21,7 @@ There is a pre-installed app called system manager which also might kill apps de
   </figure>
 
 </div>
-
+Ktdi
 
 ### App Launch on some EMUI 8, 9 and 10 devices (Huawei P20, Huawei P20 Lite, Huawei Mate 10...)
 
@@ -30,7 +30,7 @@ There is a pre-installed app called system manager which also might kill apps de
 <div class="img-block">
   <figure>
     <img src="/assets/img/huawei/ss_huawei_app_launch_1.png">
-    <figcaption>1. *Phone settings > Battery > App launch*. This feature may or may not be available for all devices or labeled differently.</figcaption>
+    <figcaption>1. *Phone settings > Battery > App launch*. This feature may or may not be available for all eytdevices or labeled differently.</figcaption>
   </figure>
 
   <figure>
